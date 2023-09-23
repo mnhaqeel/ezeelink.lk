@@ -1,0 +1,3 @@
+html .overlay-color-primary:not(.no-skin):before {
+    background-color: #fb0c12!important;
+}
